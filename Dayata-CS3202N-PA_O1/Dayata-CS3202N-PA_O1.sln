@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dayata-CS3202N-PA_O1", "Dayata-CS3202N-PA_O1\Dayata-CS3202N-PA_O1.csproj", "{90E92802-C91F-4199-8328-AEACAF6A9198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90E92802-C91F-4199-8328-AEACAF6A9198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E92802-C91F-4199-8328-AEACAF6A9198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E92802-C91F-4199-8328-AEACAF6A9198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E92802-C91F-4199-8328-AEACAF6A9198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496A7BF1-CDF7-4A79-A1DB-3E65E4257173}
+	EndGlobalSection
+EndGlobal
