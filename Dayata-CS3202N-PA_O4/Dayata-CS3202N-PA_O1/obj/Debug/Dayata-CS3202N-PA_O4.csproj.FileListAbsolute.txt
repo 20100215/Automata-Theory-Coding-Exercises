@@ -1,0 +1,11 @@
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\bin\Debug\Dayata-CS3202N-PA_O1.exe.config
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\bin\Debug\Dayata-CS3202N-PA_O1.exe
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\bin\Debug\Dayata-CS3202N-PA_O1.pdb
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\obj\Debug\Dayata-CS3202N-PA_O4.csproj.AssemblyReference.cache
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\obj\Debug\Dayata-CS3202N-PA_O4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\obj\Debug\Dayata_CS3202N_PA_O1.Form1.resources
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\obj\Debug\Dayata_CS3202N_PA_O1.Properties.Resources.resources
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\obj\Debug\Dayata-CS3202N-PA_O4.csproj.GenerateResource.cache
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\obj\Debug\Dayata-CS3202N-PA_O4.csproj.CoreCompileInputs.cache
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\obj\Debug\Dayata-CS3202N-PA_O1.exe
+C:\Users\Marc\source\repos\Dayata-CS3202N-PA_O4\Dayata-CS3202N-PA_O1\obj\Debug\Dayata-CS3202N-PA_O1.pdb
